@@ -20,3 +20,6 @@ pip install -r requirements.txt
 - define the logger
 
 - define the exception handler
+
+- create dataset
+    - create file -> `data_generation.py`
