@@ -23,3 +23,5 @@ pip install -r requirements.txt
 
 - create dataset
     - create file -> `data_generation.py`
+    - we use roboflow for data annotation
+    - get the data from roboflow and store it in github and S3 bucket
